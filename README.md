@@ -20,7 +20,7 @@
 * CookRepo
 * RecipeRepo
 * InstructionsRepo
-# EndPoints
+## EndPoints
 ## Cook
 * addCook
 * getAll
